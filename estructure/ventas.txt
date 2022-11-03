@@ -1,0 +1,5 @@
+numero cuenta,nombre,apellido,rut,telefono,direccion,edad,profesion,deuda
+1234568,Danko,Torres,20574209-2,974758023,Loncoche,21,Estudiante,24000,*123123:4234:1231;12312:123123:123123*
+1234567,Billy,Martinez,19000000-1,923546712,Cura,22,Estudiante,24500,*::::::::;::::;::::*
+132432423ew4,Pablo,Martinez,11222333-4,96661234,Labranza,36,Estudiante,10000000000,
+329847234,Sebastian,Calfunao,20999111-4,932001546,Fundo,17,Estudiante,1999990,
